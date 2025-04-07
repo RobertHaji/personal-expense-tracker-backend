@@ -1,0 +1,63 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "category": "Food",
+      "amount": 0,
+      "description": "Anything edible",
+      "userAmount": "3445"
+    },
+    {
+      "id": "2",
+      "category": "Transport",
+      "amount": 0,
+      "description": "Travel Expense",
+      "userAmount": "5000"
+    },
+    {
+      "id": "3",
+      "category": "Electricity",
+      "amount": 0,
+      "description": "Electricity bill",
+      "userAmount": "1300"
+    },
+    {
+      "id": "4",
+      "category": "Internet",
+      "amount": 0,
+      "description": "internet services, wifi, bundles",
+      "userAmount": "2000"
+    },
+    {
+      "id": "5",
+      "category": "Childcare",
+      "amount": 4000,
+      "description": "Family support",
+      "userAmount": "2000"
+    },
+    {
+      "id": "6",
+      "category": "Clothing",
+      "amount": 0,
+      "description": "CLothes",
+      "userAmount": "2334"
+    },
+    {
+      "id": "7",
+      "category": "Miscellaneous",
+      "amount": 0,
+      "description": "Uncategorized",
+      "userAmount": "3000"
+    },
+    {
+      "id": "8",
+      "category": "Rent",
+      "amount": 0,
+      "description": "Rent",
+      "userAmount": "13000"
+    }
+  ],
+  "currentBalance": {
+    "currentBalance": 4323
+  }
+}
